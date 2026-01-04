@@ -180,6 +180,9 @@ watch(autoRefresh, (newValue) => {
   } else {
     stopPolling();
   }
+
+  
+  
 });
 
 // 挂载时初始化
